@@ -1,0 +1,19 @@
+img{
+    display: block;
+    background-color: lightskyblue;
+    padding: 20px;
+    border: 10px solid red;
+    margin: 0px;
+
+}
+.smiling{
+    margin: 0px;
+}
+
+.eyes{
+    margin: 0px 180px;
+}
+
+.winking{
+    margin: 0px 360px
+}
