@@ -3,6 +3,7 @@ h1 {
 }
 p {
     font-size: 2rem;
+    letter-spacing: 2px;
 }
 
 @media screen and (max-width: 900px){
@@ -11,5 +12,11 @@ p {
     }
     p{
         font-size: 1rem;
+    }
+}
+
+@media screen and (max-width: 400px){
+    img{
+        display: block;
     }
 }
