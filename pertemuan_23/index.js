@@ -74,10 +74,12 @@ console.log("Berat adalah:" +berat)
 let tinggi= prompt("Masukan Tinggi: ");
 console.log("Tinggi adalah:" +tinggi);
 
-let bilangan1=berat;
-let bilangan2=tinggi;
+let bil1 = berat;
+let bil2 = tinggi;
+let hasil;
 
-console.log(bilangan1/bilangan2*bilangan2);
+console.log(hasil=bil2*bil2);
+console.log(bil1/hasil);
 
 
 
